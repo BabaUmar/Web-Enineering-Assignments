@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+#videoContainer{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 1000px;
+    height: auto;
+}
+#video{
+    width: 800px;
+    margin: auto;
+    margin-left: 65px;
+    height: 400px;
+}
+
+.images{
+    width:350px;
+    height:200px;
+   position: relative;
+   bottom: 130px;
+}
+
+#loco{
+    margin-right: 50px;
+}
+.container{
+    width: 800px;
+    margin:0 auto;
+    margin-top: 150px;
+}
